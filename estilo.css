@@ -1,0 +1,32 @@
+#titulo{
+    color: white;
+    padding-left: 13cm;
+    background-color: gray;
+}
+
+#parrafo{
+    color: brown;
+    padding-left: 5cm;
+    border: 2px solid #000;
+    
+    
+}
+
+#subtitulo{
+    color: gray;
+    padding-left: 13cm
+}
+
+#parrafo2{
+padding-left: 13cm
+}
+
+#imagen{
+    padding-left: 13cm
+}
+
+*{
+    font-size: 24px;
+}
+
+/*Comentario*/
